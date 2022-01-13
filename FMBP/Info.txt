@@ -1,0 +1,49 @@
+If you want to add these cars to your fiveM server you
+can go to your server CFG and write:
+
+ensure: [FNBP]
+start: [FNBP]
+
+Now, if you use TxAdmin, you might need to go to the
+resource thingy inside of TxAdmin, then scroll untill you
+find the pack, now all you want to do is:
+
+1. Turn on every one of the mods
+2. Check if they are on
+3. Restart the server (might be glitchy if you dont)
+4. Enjoy!
+
+Add to Vmenu
+If you are going to get the mods into your vMenu (add-ons),
+then you need to follow these simple steps:
+
+1. Go to your server resource folder
+2. Locate the vMenu folder/script
+3. Open the folder
+4. Locate the addon json file (just search inside the vmenu)
+5. Go to the addon Vehicles
+6. Paste this under the addon Vehicles:
+
+"17r35",
+"skyline",
+"2012GTR",
+"gtr50",
+"stancedr32",
+"Mads14",
+"silvia",
+"patrol2",
+"safari85",
+"safari85st",
+"protoz",
+"350z",
+"skylineken",
+"vtcss",
+"180sx",
+"ranger2019",
+"12hiace",
+"corolla",
+"hilux2019",
+"fortuner",
+
+If you want the VIP names to, they will be under the VIP-
+folder, You will just need to add "rename_me",

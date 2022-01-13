@@ -1,0 +1,26 @@
+ Here are the model names off the Vehicles,You can just copy them into the addon-jason
+file, witch should be in the Vmenu folder!
+Here they are:
+"17r35",
+"skyline",
+"2012GTR",
+"gtr50",
+"stancedr32",
+"Mads14",
+"silvia",
+"patrol2",
+"safari85",
+"safari85st",
+"protoz",
+"350z",
+"skylineken",
+"vtcss",
+"180sx",
+"ranger2019",
+"12hiace",
+"corolla",
+"hilux2019",
+"fortuner",
+
+
+
